@@ -61,14 +61,9 @@ If you'd like to contribute to the development of WhatsApp Chat Analyzer, feel f
 This project is licensed under the [MIT License](LICENSE).
 
 ## Images
-<img width="450" alt="Screenshot 2023-12-26 at 11 22 16 PM" src="https://github.com/PulsatingGenius/wca-pulsating/assets/69569434/50b924e5-68d2-4ce9-83f3-6eca076b5e7c"> 
+<img width="450" alt="wordcloud" src="https://github.com/NeuralNoble/whatsapp-chat-analyser/assets/156664113/5fc5b542-56be-4eac-a4cd-4af648b724e0">
+
+<img width="450" alt="292990767-5527a4b4-5a15-47db-94f8-bad5ce9f3bb9" src="https://github.com/NeuralNoble/whatsapp-chat-analyser/assets/156664113/b6b164ff-0f9d-449b-9ba1-2234d99004d6">
 
 
-<img width="450" height="289"  alt="Screenshot 2023-12-27 at 12 13 07 PM" src="https://github.com/PulsatingGenius/wca-pulsating/assets/69569434/5cb45b49-0985-4b5b-9430-811a4fd239b1">
-
-
-<img width="453" alt="Screenshot 2023-12-27 at 1 43 54 PM" src="https://github.com/PulsatingGenius/wca-pulsating/assets/69569434/5527a4b4-5a15-47db-94f8-bad5ce9f3bb9">
-<img width="456" alt="Screenshot 2023-12-27 at 1 43 46 PM" src="https://github.com/PulsatingGenius/wca-pulsating/assets/69569434/32d9ded0-7ffb-4f8e-92f5-f75ddbcf3d5c">
-
-
-
+<img width="450" alt="292991025-32d9ded0-7ffb-4f8e-92f5-f75ddbcf3d5c" src="https://github.com/NeuralNoble/whatsapp-chat-analyser/assets/156664113/2074340a-e925-4105-9efa-bc9d01eeaec6">
